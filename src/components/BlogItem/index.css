@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.heading2 {
+  font-size: 20px;
+  font-family: Roboto;
+  color: #12022f;
+}
+.paragraph2 {
+  font-size: 15px;
+  font-family: Roboto;
+  color: #9aa5b1;
+  font-weight: 500;
+}
+.itemcard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list-item {
+  list-style-type: none;
+  border-bottom: 1px solid #9aa5b1;
+}
